@@ -22,6 +22,7 @@ class SimpleTextWidget extends StatelessWidget {
   final Color? backgroundColor;
   final double? height;
   final FontStyle? fontStyle;
+  final double? letterSpacing;
   final String? package;
 
   const SimpleTextWidget({
@@ -46,6 +47,7 @@ class SimpleTextWidget extends StatelessWidget {
     this.backgroundColor,
     this.height,
     this.fontStyle,
+    this.letterSpacing,
     this.package,
   });
 
@@ -73,6 +75,7 @@ class SimpleTextWidget extends StatelessWidget {
                 height: height,
                 fontStyle: fontStyle,
                 package: package,
+                letterSpacing: letterSpacing,
               ),
               maxLines: maxLines,
               minFontSize: minFontSize ?? 12,

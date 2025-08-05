@@ -1,3 +1,2 @@
-## [1.0.0] - 2025-08-05
-- Initial release of SimpleTextWidget package.
-- Added support for customizable, auto-sizing text widget.
+## [1.0.1] - 2025-08-05
+- add letterSpacing property to SimpleTextWidget
