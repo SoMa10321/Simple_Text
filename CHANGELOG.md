@@ -1,2 +1,2 @@
-## [1.0.2] - 2025-08-05
+## [1.0.3] - 2025-08-05
 - add letterSpacing property to SimpleTextWidget
