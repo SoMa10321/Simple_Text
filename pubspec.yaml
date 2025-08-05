@@ -2,7 +2,7 @@ name: simple_text_widget
 description: 'A smart, elegant, and highly customizable Flutter text widget based on AutoSizeText.'
 homepage: https://github.com/SoMa10321/Simple_Text
 # publish_to: 'none' 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: ^3.8.1
