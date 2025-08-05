@@ -1,6 +1,6 @@
 name: simple_text
 description: 'A smart, elegant, and highly customizable Flutter text widget based on AutoSizeText.'
-homepage: 
+homepage: https://github.com/SoMa10321/Simple_Text
 publish_to: 'none' 
 version: 1.0.0+1
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  auto_size_text:
+  auto_size_text: ^3.0.0
 
 dev_dependencies:
   flutter_test:
