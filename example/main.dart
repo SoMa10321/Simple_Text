@@ -1,6 +1,6 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
-import 'package:simple_text/simple_text.dart';
+import 'package:simple_text_widget/simple_text_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: SimpleText(
-            text: 'Hello SimpleText!',
+          child: SimpleTextWidget(
+            text: 'Hello SimpleTextWidget!',
             size: 20,
             color: Colors.blue,
             fontWeight: FontWeight.bold,

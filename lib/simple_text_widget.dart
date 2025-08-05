@@ -1,7 +1,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 
-class SimpleText extends StatelessWidget {
+class SimpleTextWidget extends StatelessWidget {
   final String text;
   final double size;
   final Color color;
@@ -24,7 +24,7 @@ class SimpleText extends StatelessWidget {
   final FontStyle? fontStyle;
   final String? package;
 
-  const SimpleText({
+  const SimpleTextWidget({
     super.key,
     required this.text,
     required this.size,

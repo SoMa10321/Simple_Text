@@ -1,4 +1,4 @@
-name: simple_text
+name: simple_text_widget
 description: 'A smart, elegant, and highly customizable Flutter text widget based on AutoSizeText.'
 homepage: https://github.com/SoMa10321/Simple_Text
 # publish_to: 'none' 

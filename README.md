@@ -3,8 +3,8 @@
 [![pub package](https://img.shields.io/pub/v/simple_text.svg)](https://pub.dev/packages/simple_text)
 
 
-📦 SimpleText — A Smart, Elegant, and Highly Customizable Text Widget for Flutter
-SimpleText is a ready-to-use widget based on AutoSizeText that provides a rich and highly customizable text experience in Flutter apps. It's designed to simplify the styling process while offering professional control over text appearance, auto-sizing, decoration, alignment, and even tap interactions.
+📦 SimpleTextWidget — A Smart, Elegant, and Highly Customizable Text Widget for Flutter
+SimpleTextWidget is a ready-to-use widget based on AutoSizeText that provides a rich and highly customizable text experience in Flutter apps. It's designed to simplify the styling process while offering professional control over text appearance, auto-sizing, decoration, alignment, and even tap interactions.
 
 ✨ Key Features:
 📐 Smart Auto-Sizing using AutoSizeText to avoid overflow or clipping.
@@ -17,7 +17,7 @@ SimpleText is a ready-to-use widget based on AutoSizeText that provides a rich a
 
 📏 Precise font size control with minFontSize and maxFontSize for a responsive UI.
 
-🧩 When to Use SimpleText?
+🧩 When to Use SimpleTextWidget?
 Use it when you need:
 
 A clean, elegant, and reusable text component.
