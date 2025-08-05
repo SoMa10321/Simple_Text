@@ -1,4 +1,4 @@
-# simple_text
+# simple_text_Widget
 
 [![pub package](https://img.shields.io/pub/v/simple_text.svg)](https://pub.dev/packages/simple_text)
 
